@@ -19,8 +19,8 @@ Analysis matching local weather conditions to optimal crop recommendations for d
 - Based on rainfall, recommended crops are mango, blackgram, banana, kidneybeans, papaya, and pomegranate.
 
 ## Tools Used
--Python 
--Pandas
+- Python 
+- Pandas
 
 ## Files
 - crop_recommendations_quito.ipynb - Main analysis
