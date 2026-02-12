@@ -1,4 +1,4 @@
-# Crop Recommendations for Zones of Quito
+# Crop Recommendations for Different Zones of Quito
 ## Overview
 Analysis matching local weather conditions to optimal crop recommendations for different zones.
 
