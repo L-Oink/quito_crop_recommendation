@@ -14,12 +14,13 @@ Analysis matching local weather conditions to optimal crop recommendations for d
 - Matched districts to crops based on average temperature, humidity, and rainfall requirements
 
 ## Key Findings
-Based on temperature, the ideal crop is chickpea for all zones.
-Based on humidity, recommended crops are blackgram and jute.
-Based on rainfall, recommended crops are mango, blackgram, banana, kidneybeans, papaya, and pomegranate
+- Based on temperature, the ideal crop is chickpea for all zones.
+- Based on humidity, recommended crops are blackgram and jute.
+- Based on rainfall, recommended crops are mango, blackgram, banana, kidneybeans, papaya, and pomegranate.
 
 ## Tools Used
-Python, pandas
+-Python 
+-Pandas
 
 ## Files
 - crop_recommendations_quito.ipynb - Main analysis
