@@ -6,7 +6,7 @@ Analysis matching local weather conditions to optimal crop recommendations for d
 - Local weather data: Secretaria de Ambiente of Municipio de Quito
   (retrieved from Kaggle in https://www.kaggle.com/datasets/sebas02/quito-weather-time-series)
 - Crop recommendation dataset: Kaggle
-  (retrive from Kaggle in https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset)
+  (retrived from Kaggle in https://www.kaggle.com/datasets/varshitanalluri/crop-recommendation-dataset)
 
 ## Methods
 - Removed unnecessary features (air quality metrics from weather data, soil characteristic from crop recommendations)
